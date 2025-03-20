@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @apj72
-- 👀 I’m interested in alsorts. 
-- 🌱 I’m currently learning python
-- 💞️ For now as I am learniong, I’m not looking to collaborate. I'm just curious about GIT. 
+- 👀 I’m interested in expanding my technical knowledge, motorbikes, dance/house music a. 
+- 🌱 I’m currently learning many things of which GIT is part of it. 
+- 💞️ For now as I am learning, I’m not looking to collaborate. I'm just curious about GIT. 
 - 📫 How to reach me ...
 
 <!---
